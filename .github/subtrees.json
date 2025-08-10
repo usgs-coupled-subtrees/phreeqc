@@ -1,0 +1,17 @@
+[
+ {
+    "prefix": "COMManuscript/C&Gfinal/examples/c",
+    "url": "git@${CI_SERVER_HOST}:${GROUP}-subtrees/phreeqc-commanuscript-cgfinal-examples-c.git",
+    "repo": "usgs-coupled-subtrees/phreeqc-commanuscript-cgfinal-examples-c"
+  },
+ {
+    "prefix": "COMManuscript/C&Gfinal/examples/com",
+    "url": "git@${CI_SERVER_HOST}:${GROUP}-subtrees/phreeqc-commanuscript-cgfinal-examples-com.git",
+    "repo": "usgs-coupled-subtrees/phreeqc-commanuscript-cgfinal-examples-com"
+  },
+ {
+    "prefix": "COMManuscript/C&Gfinal/examples/fortran",
+    "url": "git@${CI_SERVER_HOST}:${GROUP}-subtrees/phreeqc-COMManuscript-CGfinal-examples-fortran.git",
+    "repo": "usgs-coupled-subtrees/phreeqc-COMManuscript-CGfinal-examples-fortran"
+  }
+]
